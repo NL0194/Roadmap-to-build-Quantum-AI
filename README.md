@@ -53,10 +53,10 @@
       Link: https://www.cloudskillsboost.google/paths/118
 
 
-3.3. Cloud Skill Boost Search Bar - Integrate Generative AI Into Your Data Workflow
+3.3. Cloud Skill Boost Search Bar - Build and Modernize Applications With Generative AI
 
 
-      Link: https://www.cloudskillsboost.google/paths/1281
+      Link: https://www.cloudskillsboost.google/paths/1282
 
 
 3.4. Cloud Skill Bost Search Bar - Deploy and Manage Generative AI Models
@@ -66,4 +66,6 @@
 
 
 3.5. Cloud Skill Boost Search bar - Build and Modernize Applications With Generative AI
+
+
       Link: https://www.cloudskillsboost.google/paths/1282
