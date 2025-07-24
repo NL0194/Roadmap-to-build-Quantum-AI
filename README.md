@@ -10,6 +10,7 @@
 # 1. Learn How to Code Python
 1.1. Learn Fundamentals of Python
       Type this in Google - Asabeneh/30-Days-Of-Python (Github)
+      
       Link: https://github.com/Asabeneh/30-Days-Of-Python
       Type this in Google - Python Full Course for Beginners - Programming with Mosh (Youtube)
       Link: https://www.youtube.com/watch?v=K5KVEU3aaeQ
